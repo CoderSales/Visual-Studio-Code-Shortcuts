@@ -1,5 +1,7 @@
 # Visual Studio Code Shortcuts
 
+![VSCode logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+
 ## Description
 
 Visual-Studio-Code-Shortcuts
@@ -30,4 +32,10 @@ ____
 
 ## References
 
+A colleague found it useful to know about one VSCode shortcut, so here are some shortcuts.
 
+[Visual Studio Code | Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+
+[File:Visual Studio Code 1.35 icon.svg | Wikipedia | Image](https://en.wikipedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg)
+
+[VSCode image | Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
