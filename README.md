@@ -10,7 +10,7 @@ Visual-Studio-Code-Shortcuts
 
 ____
 
-`Ctrl + K` then `Ctrl + S` - Show Keyboard Shortcuts (Or File > Preferences > Keyboard Shortcuts)
+`Ctrl + K` then `Ctrl + S` Show Keyboard Shortcuts (Or File > Preferences > Keyboard Shortcuts)
 
 ____
 
