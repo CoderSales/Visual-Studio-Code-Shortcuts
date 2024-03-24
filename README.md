@@ -8,6 +8,12 @@ Visual-Studio-Code-Shortcuts
 
 ## Content
 
+____
+
+[Ctrl + K] then [Ctrl + S] - Show Keyboard Shortcuts (Or File > Preferences > Keyboard Shortcuts)
+
+____
+
 `Ctrl + '` Show Terminal
 
 `Ctrl + B` Show / Hide Side Panel
