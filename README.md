@@ -22,6 +22,7 @@ ____
 
 `Ctrl /` Convert to Comment line (Toggle on/off)
 
+`Ctrl F4` Close Current Open File Window
 ____
 
 ### If already in side panel (Ctrl B)
