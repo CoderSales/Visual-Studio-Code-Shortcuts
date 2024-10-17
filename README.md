@@ -35,6 +35,10 @@ ____
 
 `Ctrl Shift X` to go to Extensions
 
+### Other Shortcuts
+
+<kbd>F11</kbd> removes Windows Taskbar and File Explorer bar at top of VSCode
+
 ____
 
 ## References
