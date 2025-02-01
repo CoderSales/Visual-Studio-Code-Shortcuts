@@ -39,7 +39,7 @@ ____
 
 <kbd>F11</kbd> removes Windows Taskbar and File Explorer bar at top of VSCode
 
-<kbd>Alt</kbd> <kbd>r</kbd> use Regular Expression
+<kbd>Alt</kbd> <kbd>r</kbd> use Regular Expression (toggle on off)
 
 ____
 
